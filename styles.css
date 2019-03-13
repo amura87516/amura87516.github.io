@@ -1,0 +1,26 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  /* p {
+    color: red;
+  } */
+  .a {
+    color: green;
+  }
+  .b {
+    color: yellow;
+  }
+  section {
+    float: left;
+    margin: 0 1.5%;
+    width: 63%;
+  }
+  aside {
+    float: right;
+    margin: 0 1.5%;
+    width: 30%;
+  }
+  
